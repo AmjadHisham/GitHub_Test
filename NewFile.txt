@@ -1,1 +1,2 @@
-Amjad Abu Rmileh test on using git command line on Linux 
+Amjad Abu Rmileh test on using git command line on Linux¨
+Amjad modifier it now 
